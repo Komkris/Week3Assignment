@@ -1,0 +1,15 @@
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\Week3AssignmentParick.exe
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\Week3AssignmentParick.deps.json
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\Week3AssignmentParick.runtimeconfig.json
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\Week3AssignmentParick.dll
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\ref\Week3AssignmentParick.dll
+C:\Users\komkr\source\repos\Week3AssignmentParick\bin\Debug\net6.0\Week3AssignmentParick.pdb
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.csproj.AssemblyReference.cache
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.AssemblyInfoInputs.cache
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.AssemblyInfo.cs
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.csproj.CoreCompileInputs.cache
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.dll
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\ref\Week3AssignmentParick.dll
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.pdb
+C:\Users\komkr\source\repos\Week3AssignmentParick\obj\Debug\net6.0\Week3AssignmentParick.genruntimeconfig.cache
